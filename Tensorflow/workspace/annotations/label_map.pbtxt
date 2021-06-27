@@ -1,0 +1,12 @@
+item { 
+	name:'ball'
+	id:1
+}
+item { 
+	name:'block'
+	id:2
+}
+item { 
+	name:'cozmo'
+	id:3
+}
